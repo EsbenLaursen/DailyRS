@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DailiesRS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=ESBENLAURSEN\SQLEXPRESS;Initial Catalog=RSDaily;Persist Security Info=True;User ID=testlogin;Password=HejMedDig
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
